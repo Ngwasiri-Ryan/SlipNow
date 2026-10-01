@@ -1,0 +1,22 @@
+# APK / release builds
+*.apk
+*.aab
+*.ipa
+
+# Flutter build output
+frontend/build/
+
+# Dart tool cache
+frontend/.dart_tool/
+
+# IDE
+frontend/.idea/
+*.iml
+
+# Local env / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
